@@ -39,8 +39,8 @@ body {
 .home-h1, .about-h1, .menu-h1, .gallery-h1, .contact-h1  {
     color: #000000;
     background-color: #6f88d8;
-    padding: 5px;
-    font-size: 12px;
+    padding: 2px;
+    font-size: 8px;
     margin-top: 40px;
     text-align: center;
 }
